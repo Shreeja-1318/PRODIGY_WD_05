@@ -111,7 +111,7 @@ input:hover {
 .weather__card {
   display: flex;
   align-items: center;
-  background: #181818;
+  background: #263289;
   padding: 1rem;
   border-radius: 10px;
 }
